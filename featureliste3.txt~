@@ -1,0 +1,57 @@
+Featurs for Gray Zone
+												Wichtigkeit		Komplexität		Zeitaufwand
+				Startscreen 						4				1				1
+
+				Charakteranpassung
+
+					-> Geschlecht 					2				2				2
+
+					-> Religion 					1 				2				1
+
+				Screen mit Vorgeschichte 
+				und erster Entscheidung
+
+					-> Vorgeschichte 				4				1				2
+
+					-> Spielbeeinflussung 
+						durch Entscheidung 			3				3				4
+
+				Steuerung
+
+					-> Spielerbewegungen 			5				2				3
+
+					-> Spieleraktionen 				4				3				5
+
+					-> (Nicht-)begehbare 
+						Bereiche 					4				3				4
+
+					-> NPC-Steuerung 				4				5				10
+
+					-> NPC-Setting 					2				1				2
+
+				Maps
+
+					-> Stadt 						5				2				5
+
+					-> Höhle 
+						(f. Spielanfang) 			5				2				3
+
+					-> Apartments					3				3				5
+
+				Kampfsystem
+					-> Waffenkampf 					5				2				3
+					-> Skillkampf 					5				2				2
+
+				Spielzustand
+					-> Allgemeine Anzeige 			4				3				3
+					-> Items-Pickup 				3				2				3
+					-> Invetar-Menü 				2				2				4
+
+				Spiel beenden
+					-> beenden 						5				2				2
+					-> speichern 					3				4				3
+
+				Dokumentation
+					-> PDF-Dokumentation 			1				1				5
+					-> ingame-Hilfe 				1  				3				5
+
