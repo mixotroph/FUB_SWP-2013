@@ -1,0 +1,22 @@
+How to set up git
+-----------------
+
+1) 	clone the 'official' repository to your local machine:
+	  in your terminal type: git clone git@github.com:mixotroph/FUB_SWP-2013.git 
+2) 	fork the 'oficial' repository on github
+3)	add your forked repository as a remote:
+	  in your terminal type : git remote add mySWP [link to your forked repository]
+	  where 'mySWP' can any abreviation for the url of your choice 
+
+Workflow / How to us all this
+-----------------------------
+
+1) 	after you have made some changes you want to share stage, commit and push to your
+  	forked repository with:
+	  git push mySWP
+2)	go to your repository on github and make a 'pull request'
+3)	one of us will notice the 'pull request' and merge the changes to the 'official'
+	repository
+4) 	to stay up to date jutst type from time to time:
+	  git pull 
+	to get all new stuff.
