@@ -1,0 +1,27 @@
+Charakter: Wissenschaftler
+
+Religion:
+-Christentum
+-Islam
+-Buddhismus
+-Judentum
+-Satanismus
+
+Religiösität:
+-strenggläubig
+-säkulär
+
+Alter (XP-Bonus):
+-jung
+-mittelalt
+-alt
+
+Herkunft (Geld-Funde):
+-arm
+-bürgerlich
+-reich
+
+Glück (Kampf):
+-Glückspilz
+-neutral
+-Pechvogel
