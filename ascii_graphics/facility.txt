@@ -1,0 +1,32 @@
+Tisch klein:
+
+O
+
+Tisch groß:
+
+ _
+(_)
+
+
+Stuhl:
+
+#
+
+Regal:
+
+E
+
+Handwaschbecken:
+
+D
+
+Sessel:
+
+TT
+
+
+Klo:
+_
+U
+
+
