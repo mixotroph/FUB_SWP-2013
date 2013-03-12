@@ -1,0 +1,6 @@
+textrahmen chars: a,b,c,d,e,f,g,h,i (braun)
+hero: @(rot=hell,blau=lab)  devil:d(rot=hell,blau=lab) 
+
+lab border: b(blau) hell border: b(rot)
+
+lab background: g(blau) hell background:g(rot)
