@@ -1,3 +1,7 @@
-(0,16)*t x (16,0)*t ; t=0,1,2 textfeld
+(0,0),(17,0),(34,0)
+(0,17)(17,17),34,17) 
+(0,34)(17,34),(34,34)textfeld
 
 (0,16) devil , (20,36) dr eisenhower
+
+(0,0) dämon , (17,0) labzombie, (34,0) Hellguard (51,0)viktor
