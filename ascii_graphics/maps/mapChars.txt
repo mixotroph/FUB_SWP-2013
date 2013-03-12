@@ -1,0 +1,15 @@
+
+
+Maps characters: 
+
+. = Floor
+
+LAB:	O = Door
+		W = Wall
+		w = space behind wall (that is not reachable)
+		
+HELL: S = Stonne
+
+
+map_devil:  E = not passable
+				. = Floor
