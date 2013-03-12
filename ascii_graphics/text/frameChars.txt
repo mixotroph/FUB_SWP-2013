@@ -1,6 +1,6 @@
 
 frame: 	ABC
-	DEF
-	GHI
+		DEF
+		GHI
 
 Colour: BROWN
