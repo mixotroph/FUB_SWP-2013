@@ -1,7 +1,12 @@
 (0,0),(17,0),(34,0)
 (0,17)(17,17),34,17) 
-(0,34)(17,34),(34,34)textfeld
+(0,34)(17,34),(34,34)textfeld 
 
-(0,16) devil , (20,36) dr eisenhower
+(0,0) devil,lab , (20,0) dr eisenhower,lab (40,0) devil,hell (60,0) dr eisenhower main_char.png
 
-(0,0) dämon , (17,0) labzombie, (34,0) Hellguard (51,0)viktor
+(0,0) dämon , (17,0) labzombie, (34,0) Hellguard (51,0)viktor enemy.png		
+
+(0,0) notebook, (17,0)tür, lab (34,0), tisch (51,0)mauer, (68,0)stuhl,
+(0,17) labmitarbeiter, (17,17)hintergrund  lab.png
+
+(0,0) karte, (17,0) tür, (34,0) fels(wand), (51,0) hintergrund
