@@ -1,0 +1,17 @@
+
+
+Maps characters: 
+
+. = Floor
+
+LAB:	O = door, W = wall, w = space behind wall (that is not reachable)(ich           hab keine extra grafik: w->W), N = notebook, m = Labmitarbeiter, 
+        Z = zombie  T = table C= chair  - = floor
+		
+HELL: - S = stone - P = paper, D = door, . = Background M = monster 
+
+
+map_devil:  E = not passable	. = Floor
+
+textrahmen chars: a,b,c,d,e,f,g,h,i (braun,vll werden auch kein braun benötigt)
+
+hero: @(rot=hell,blau=lab)  devil:d(rot=hell,blau=lab) 
